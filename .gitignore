@@ -1,0 +1,34 @@
+# Python virtual environments
+meta_isl/
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model weights / checkpoints
+
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# IDE / Editor
+
+.vscode/
+.idea/
+
+# OS junk
+
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+
+.env
+.env.*
+*.env
