@@ -3,6 +3,7 @@ meta_isl/
 venv/
 env/
 .venv/
+meta-isl/
 
 # Python cache
 __pycache__/
